@@ -1,5 +1,5 @@
 # Python4Kids
-Python4Kids is a customized Python for Kids based on Python 2.7. It eases the task of learning programming from scratch by integrating many useful library and home-made modules.
+Python4Kids is a customized Python for Kids based on Python 2.7. It eases the task of learning programming from scratch by integrating many useful libraries and home-made modules.
 
 ## Open libraries installed:
 * pywin32: Python for Windows Extentions
