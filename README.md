@@ -6,7 +6,7 @@ Python4Kids is a customized Python for Kids based on Python 2.7. It eases the ta
 * turtle: Turtle graphics is a popular way for introducing programming to kids
 
 ## home-made libraries:
-* pyty: Python library for typing practice
+* pyty: home-made Python library for typing practice
 
 
 ## What can you do with Python4Kids
